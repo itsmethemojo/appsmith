@@ -17,9 +17,9 @@ dependencies:
   name: redis
   version: 16.11.2
   appVersion: 6.2.7
-  repository: https://charts.bitnami.com/bitnami
+  repository: https://bahnhub.tech.rz.db.de/artifactory/bitnami-helm-3rdparty/
 - condition: mongodb.enabled
   name: mongodb
   version: 12.1.16
   appVersion: 5.0.9
-  repository: https://charts.bitnami.com/bitnami
+  repository: https://bahnhub.tech.rz.db.de/artifactory/bitnami-helm-3rdparty/
